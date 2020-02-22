@@ -7,4 +7,5 @@
 <a href="https://github.com/Wayyan/apps-Ive-Done/blob/master/ss/Pregnant%20Care.apk">here</a></p><br>
 <img src="https://github.com/Wayyan/apps-Ive-Done/blob/master/ss/GIF-200222_112811.gif">
 <hr>
-<h2>You can see other published applications at <a href="https://play.google.com/store/apps/developer?id=DevDuo+Myanmar&hl=en">playstore</a></h2>
+<h2>You can see other published applications at <a href="https://play.google.com/store/apps/developer?id=DevDuo+Myanmar&hl=en">playstore</a></h2><br>
+<img src="https://github.com/Wayyan/apps-Ive-Done/blob/master/ss/Screenshot%20(139).png">
